@@ -1,5 +1,5 @@
 <a name="CombineJsonFiles"></a>
-
+# The codes to combine json files and initialize the value of the output to the sum of the the input jsons.
 ## CombineJsonFiles
 This class is used to combine json files
 
