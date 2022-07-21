@@ -1,6 +1,22 @@
 <a name="CombineJsonFiles"></a>
 # The codes to combine json files and initialize the value of the output to the sum of the the input jsons.
-## CombineJsonFiles
+
+# How to run
+## install dependencies
+- yarn
+## Run the project
+
+- yarn start
+
+## Run tests
+
+- yarn run test
+
+
+- NB. The output is in /data/output.json
+
+
+## How it works.
 This class is used to combine json files
 
 **Kind**: global class
@@ -54,3 +70,4 @@ CombineJsonFiles class
 **Throws**:
 
 - <code>Error</code> - If the file is not found
+
