@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/node": "^18.0.6",
+    "chai": "^4.3.6",    
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "start": "ts-node-dev src/main.ts",
+    "test": "tsc && mocha test/test.js"  
+  },
+  "dependencies": {
+    "@types/mocha": "^9.1.1",    
+    "mocha": "^10.0.0"
+  }
+}
